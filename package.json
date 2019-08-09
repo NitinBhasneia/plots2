@@ -27,7 +27,7 @@
     "chart.js": "^2.8.0",
     "cytoscape": "^3.9.0",
     "debounce": "jywarren/debounce#patch-1",
-    "file-saver": "^2.0.0",
+    "file-saver": "^2.0.2",
     "font-awesome": "^4.5.0",
     "i18n-js": "^3.3.0",
     "ics": "nwcell/ics.js#^0.2.0",
